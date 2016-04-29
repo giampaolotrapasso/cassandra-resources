@@ -13,3 +13,6 @@
 
 * Client-to-node encryption and client certification
   * https://datastax.github.io/java-driver/manual/ssl/
+
+* Security assessment in Cassandra
+  * https://drive.google.com/open?id=0B2L9nW4Cyj41YWd1UkI4ZXVPYmM
