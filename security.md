@@ -13,3 +13,6 @@
 
 * Client-to-node encryption and client certification
   * https://datastax.github.io/java-driver/manual/ssl/
+
+* Client-to-node encryption example
+  * https://github.com/radicalbit/cassandra-ssl-client-to-node-example
